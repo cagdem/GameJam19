@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: 161a5c72d0a588c478c2ab52bf01873e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sweeticonpack_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 875
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d67c24fb744f5488e32aca65586abb
+      internalID: 399492959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 876
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4feb92550b23504bbdc2b3d089465da
+      internalID: -1572191748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 874
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddf6a6127b8d334280f5f1a158d7663
+      internalID: 784582322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 869
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631b3c027b93bd49bd1bd768be1c6ab
+      internalID: 215169014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 872
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b99341fcd705c4e91bfa3a822616e8
+      internalID: 252913505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 869
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912006a10060ecc46830bbe6a25fc71b
+      internalID: 414213105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 872
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf99029b4e05d3e4dbc406afeba95289
+      internalID: -861556977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 804
+        width: 143
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc04a6429173c9840b2b6739620cc2bd
+      internalID: 173128358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_8
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 790
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2faf3ff92f4f647bce3ba382943000
+      internalID: 1473664280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 829
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916bce3ec1daeec4fbf4874bbb8312fd
+      internalID: 2125013833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 801
+        width: 174
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75472f0facd81f4685811e90b01e009
+      internalID: -1956802648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 835
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4403f6f3ee2915046959b61c00f2662f
+      internalID: 444653172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 836
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7abfeedd9cb8140ada7af913866941
+      internalID: 811725757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 793
+        width: 167
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d998e6370a23947b5b9f69ddc48757
+      internalID: 1231627814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 784
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b9219f27cc8f7408c1d8b44da828b0
+      internalID: 1984880068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 807
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90784ac5c197734dab4e2484a72e350
+      internalID: 1860027223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 797
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1443ae3c742b97c418833e44e1049aa3
+      internalID: -1559807175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 796
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95673211ff380a548b0023cd2799997a
+      internalID: -1520574224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 794
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27ea6c739071144791ebe4d9f7d3110
+      internalID: 2040807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 676
+        width: 242
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815d839ab290d0144be5c6e4ac4bbd88
+      internalID: 2008387757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_20
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 676
+        width: 242
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e870028860842264f90a6dab755e5ea3
+      internalID: 2045349620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 676
+        width: 241
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f427f989fceab542ab69a1ca058b488
+      internalID: 1322554222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 241
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c785308c5d474c458c7f292f3a299ba
+      internalID: 657414000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_23
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 558
+        width: 245
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9acae462cb28124fb4a493f104b0fd8
+      internalID: 583456546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_24
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 558
+        width: 241
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65adc1ba1b6a087458565912c33d4cb7
+      internalID: -1770426414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 432
+        width: 241
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51481d14c1bedf54892a36989443aeb0
+      internalID: -505406796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 432
+        width: 242
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50830d59a28fd1e41858547ff71eb322
+      internalID: -272266647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_27
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 432
+        width: 241
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c7fa68a23a7f04cb1338d0b4484da4
+      internalID: -1093572958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 59
+        width: 243
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4350d6d30659e8448aa964a7ae011666
+      internalID: -1999953082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 59
+        width: 243
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f9e62413dffe4f86026c94e4fe39f
+      internalID: -202908358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweeticonpack_30
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 59
+        width: 243
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2f67875ebf30745b1f6a952c9ff6d9
+      internalID: 2730830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c98d1e97f7f359b448e2af80a4db82e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sweeticonpack_0: 399492959
+      sweeticonpack_1: -1572191748
+      sweeticonpack_10: -1956802648
+      sweeticonpack_11: 444653172
+      sweeticonpack_12: 811725757
+      sweeticonpack_13: 1231627814
+      sweeticonpack_14: 1984880068
+      sweeticonpack_15: 1860027223
+      sweeticonpack_16: -1559807175
+      sweeticonpack_17: -1520574224
+      sweeticonpack_18: 2040807
+      sweeticonpack_19: 2008387757
+      sweeticonpack_2: 784582322
+      sweeticonpack_20: 2045349620
+      sweeticonpack_21: 1322554222
+      sweeticonpack_22: 657414000
+      sweeticonpack_23: 583456546
+      sweeticonpack_24: -1770426414
+      sweeticonpack_25: -505406796
+      sweeticonpack_26: -272266647
+      sweeticonpack_27: -1093572958
+      sweeticonpack_28: -1999953082
+      sweeticonpack_29: -202908358
+      sweeticonpack_3: 215169014
+      sweeticonpack_30: 2730830
+      sweeticonpack_4: 252913505
+      sweeticonpack_5: 414213105
+      sweeticonpack_6: -861556977
+      sweeticonpack_7: 173128358
+      sweeticonpack_8: 1473664280
+      sweeticonpack_9: 2125013833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
