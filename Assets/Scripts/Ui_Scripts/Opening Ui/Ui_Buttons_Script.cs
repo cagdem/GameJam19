@@ -89,6 +89,8 @@ public class ButtonAnimationController : MonoBehaviour, IPointerEnterHandler, IP
         }
     public void PlayButtonZoom()
         {
+            AreUsure.SetActive(false);
+            
             Credits_Image.SetActive(false);
 
             soundSlider.SetActive(false);
@@ -145,6 +147,7 @@ public class ButtonAnimationController : MonoBehaviour, IPointerEnterHandler, IP
     }
     public  void   CreditsButtonZoom()
         {
+            AreUsure.SetActive(false);
             soundSlider.SetActive(false);
             Button_NewGame.SetActive(false);
 
@@ -214,6 +217,7 @@ public class ButtonAnimationController : MonoBehaviour, IPointerEnterHandler, IP
             Credits_Image.SetActive(false);
 
             Button_NewGame.SetActive(false);
+            AreUsure.SetActive(false);
 
             Debug.Log("Optiona yaklaşıldı");
 
