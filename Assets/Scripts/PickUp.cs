@@ -6,10 +6,7 @@ public class PickUp: MonoBehaviour
 {
     public GameObject player;
     public Transform holdPos;
-    //if you copy from below this point, you are legally required to like the video
-    //public float throwForce = 500f; //force at which the object is thrown at
     public float pickUpRange = 5f; //how far the player can pickup the object from
-    //private float rotationSensitivity = 1f; //how fast/slow the object is rotated in relation to mouse movement
     private GameObject heldObj; //object which we pick up
     private Rigidbody heldObjRb; //rigidbody of object we pick up
     private bool canDrop = true; //this is needed so we don't throw/drop object when rotating the object
@@ -36,7 +33,9 @@ public class PickUp: MonoBehaviour
                 if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, pickUpRange))
                 {
                     //make sure pickup tag is attached
-                    if (hit.transform.gameObject.tag == "canPickUp")
+                    if (hit.transform.gameObject.tag == "A" ||
+                        hit.transform.gameObject.tag == "B" ||
+                        hit.transform.gameObject.tag == "C" )
                     {
                         //pass in object hit into the PickUpObject function
                         PickUpObject(hit.transform.gameObject);
