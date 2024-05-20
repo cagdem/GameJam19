@@ -4,13 +4,11 @@ public class CubeSnap : MonoBehaviour
 {
     public float snapDistance = 10f; // Snaplenme mesafesi
     private bool isSnapped = false; // Snaplenip snaplenmediðini kontrol etmek için
+    public Rigidbody Rigidbody;
 
     void Update()
-    {
-        if (!isSnapped)
-        {
-            CheckForSnap();
-        }
+    {            
+        CheckForSnap();
     }
 
     void CheckForSnap()
@@ -24,6 +22,7 @@ public class CubeSnap : MonoBehaviour
             float distance = Vector3.Distance(transform.position, snapCollider.transform.position);
             if (distance <= snapDistance)
             {
+                Rigidbody.isKinematic = true;
                 SnapToObject(snapCollider.transform);
                 break;
             }
