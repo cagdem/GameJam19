@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4109657045145222171}
   - component: {fileID: 3086912226210452739}
   - component: {fileID: 8222976269315847205}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: "A k\xFCp"
   m_TagString: A
   m_Icon: {fileID: 0}
@@ -27,13 +27,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3457364996479579739}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
   m_LocalPosition: {x: -13.753, y: 0.714, z: -1.154}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!33 &4109657045145222171
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -64,7 +64,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8cd82961cb637424bb89a8fdc311f042, type: 2}
+  - {fileID: 2100000, guid: b7054acb8991d47498584c8714639f5d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

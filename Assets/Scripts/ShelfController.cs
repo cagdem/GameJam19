@@ -14,11 +14,14 @@ public class ShelfController : MonoBehaviour
         if (other.gameObject.CompareTag("A"))
             Create(0);
 
-        if (other.gameObject.CompareTag("B"))
+        if (other.gameObject.CompareTag("M"))
             Create(1);
 
-        if (other.gameObject.CompareTag("C"))
+        if (other.gameObject.CompareTag("N"))
             Create(2);
+
+        if (other.gameObject.CompareTag("Z"))
+            Create(3);
     }
 
     private void OnTriggerExit(Collider other)
@@ -32,6 +35,6 @@ public class ShelfController : MonoBehaviour
         {
             Destroy(yaratýlan);
         }
-        yaratýlan = Instantiate(yaþlýPrefab[index], location.position, Quaternion.identity);
+        yaratýlan = Instantiate(yaþlýPrefab[index], location.position, Quaternion.Euler(0,90,0));
     }
 }

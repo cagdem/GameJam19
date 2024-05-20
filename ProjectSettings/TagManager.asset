@@ -8,6 +8,10 @@ TagManager:
   - A
   - B
   - C
+  - CinemachineTarget
+  - M
+  - N
+  - Z
   layers:
   - Default
   - TransparentFX

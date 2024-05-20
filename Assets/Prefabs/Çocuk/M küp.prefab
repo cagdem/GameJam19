@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 6808024936664726861}
   - component: {fileID: 2271445599346324214}
   m_Layer: 0
-  m_Name: "B k\xFCp"
-  m_TagString: B
+  m_Name: "M k\xFCp"
+  m_TagString: M
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29,8 +29,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -13.226, y: 0.692, z: -1.138}
-  m_LocalScale: {x: 0.16, y: 0.16, z: 0.16}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -64,7 +64,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ea759a339f55116499041cb3ff4f82be, type: 2}
+  - {fileID: 2100000, guid: 61a5dea4f356cf84998bf3264aeffceb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

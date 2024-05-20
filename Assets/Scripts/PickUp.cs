@@ -34,8 +34,9 @@ public class PickUp: MonoBehaviour
                 {
                     //make sure pickup tag is attached
                     if (hit.transform.gameObject.tag == "A" ||
-                        hit.transform.gameObject.tag == "B" ||
-                        hit.transform.gameObject.tag == "C" )
+                        hit.transform.gameObject.tag == "M" ||
+                        hit.transform.gameObject.tag == "N" ||
+                        hit.transform.gameObject.tag == "Z")
                     {
                         //pass in object hit into the PickUpObject function
                         PickUpObject(hit.transform.gameObject);

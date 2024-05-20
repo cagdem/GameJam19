@@ -3,11 +3,11 @@ using UnityEngine;
 public class CubeSnap : MonoBehaviour
 {
     public float snapDistance = 10f; // Snaplenme mesafesi
-    private bool isSnapped = false; // Snaplenip snaplenmediðini kontrol etmek için
+    public bool isSnapped = false; // Snaplenip snaplenmediðini kontrol etmek için
     public Rigidbody Rigidbody;
 
     void Update()
-    {            
+    {   
         CheckForSnap();
     }
 
@@ -34,6 +34,7 @@ public class CubeSnap : MonoBehaviour
         // Küpü collider'ýn pozisyonuna snaple
         transform.position = snapTarget.position;
         transform.rotation = snapTarget.rotation; // Ýsteðe baðlý olarak rotasyonu da snapleyebilirsiniz
+
         isSnapped = true; // Bir kez snaplendikten sonra tekrar snaplenmemesi için
     }
 
